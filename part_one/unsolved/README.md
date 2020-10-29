@@ -1,0 +1,11 @@
+# Hangman Part One Instructions
+- When the page first loads
+	- set a random word to all underscores and display it on the dom
+	- set the number of guesses to 5 and display it on the dom
+	- set the user's guesses to an empty array and display it on the dom
+- If you guess a letter in the random word, it will replace the underscore(s) with that letter
+- if the letter that you guessed is not in the random word, then Guesses left goes down 1
+- If guesses left is less than 1, then you lose and you reset the game with a new random word to all underscores
+- If you have filled all of the underscores, then you have won and you reset the game with a new random word to all underscores
+- You can only guess one letter
+- You can not guess a letter that has already been guessed
