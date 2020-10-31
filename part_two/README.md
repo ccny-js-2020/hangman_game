@@ -1,6 +1,6 @@
 # Hangman Part 2
 - [x] rounds list
-- [ ] A picture/sound if you guess the whole word
+- [x] A picture/sound if you guess the whole word
 - [ ] Using toasts for the win/loss alerts
 - [ ] Setting colors to the letters that you have guessed
 - [ ] Setting a noise when you get a letter wrong and right, and a super noise when you win
