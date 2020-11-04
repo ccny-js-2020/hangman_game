@@ -6,7 +6,7 @@
 - [ ] Setting a noise when you get a letter wrong and right, and a super noise when you win
 - [ ] have it not repeat a word that has already been played, and end the game after all of the words have been used
 - [ ] Have there be easy, medium, difficult categories
-- [ ] Words with spaces
+- [x] Words with spaces
 
 ## Stuff we havent learned
 - [ ] Use buttons for the letters to pick and disable the buttons for the letters you have already guessed

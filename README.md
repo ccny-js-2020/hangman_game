@@ -1,3 +1,1 @@
 # Hangman
-
-## Part One Instructions
