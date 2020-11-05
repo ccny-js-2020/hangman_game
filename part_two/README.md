@@ -2,8 +2,8 @@
 - [x] rounds list
 - [x] A picture/sound if you guess the whole word
 - [x] Using toasts for the win/loss alerts
-- [ ] Setting colors to the letters that you have guessed
-- [ ] Setting a noise when you get a letter wrong and right, and a super noise when you win
+- [x] Setting colors to the letters that you have guessed
+- [x] Setting a noise when you get a letter wrong and right, and a super noise when you win
 - [ ] have it not repeat a word that has already been played, and end the game after all of the words have been used
 - [ ] Have there be easy, medium, difficult categories
 - [x] Words with spaces
